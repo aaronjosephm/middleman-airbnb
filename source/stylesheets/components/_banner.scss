@@ -1,0 +1,14 @@
+.banner {
+  background: $blue;
+  color: white;
+  height: 50vh;
+  h1 {
+    font-size: 50px;
+  }
+  a {
+    color: $red;
+    &:hover {
+      color: darken($red, 10%);
+    }
+  }
+}
