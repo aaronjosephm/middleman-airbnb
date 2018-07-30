@@ -1,0 +1,14 @@
+aaronjosephm:
+  name: "Aaron's home"
+  description: "Charming room in Snowdon"
+  city_name: "Montreal, Canada"
+  city_slug: "Montreal"
+  wifi: true
+  rating: 4
+ovokojo:
+  name: "Kojo's home"
+  description: Small flat in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
